@@ -1,0 +1,15 @@
+{
+  "name": "BreakingNewsEnglish",
+  "version": "1.0.0",
+  "description": "Breaking News English formatter - for learning English",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Andrey Svetlichny",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
